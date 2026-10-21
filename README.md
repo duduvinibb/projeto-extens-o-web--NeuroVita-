@@ -1,7 +1,7 @@
 # projeto-extensao-web-NeuroVita
 Plataforma web online de NeuroVita , utilizada para automatizar os processos de cadastro e agenda de pacientes e pontuário eletrônico do instituto Vem Viver, assim como gerar prontuários eletrônicos laudos psicológicos.
 
-##Equipe 
+## Equipe 
 - Gabriela (Gerente) 
 - Samuel (Líder Técnico)
 - Marcos (QA)
@@ -12,7 +12,7 @@ Plataforma web online de NeuroVita , utilizada para automatizar os processos de 
 - Higor (Desenvolvedor - Back)
 - Victor (Desenvolvedor - Back e Devops)
 
-##Como é executar o Projeto
+## Como é executar o Projeto
 - Instalar o servidor socal da aplicação;
 - Disponibilizar o Banco de Dados no servidor;
 - Administrador criar usuários;
